@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/CMakeFiles/bootloader
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/CMakeFiles/bootloader.rule
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/CMakeFiles/bootloader-complete.rule
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/Projects/ESP/projects/ESP32-C6-OLED/ESP32-C6-LCD-1.47-Test/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
