@@ -14,7 +14,7 @@ Setup the example project as described at the wiki.
 
 Now setup SquareLine project as following:
 
-![SQ Line projext](image.png)
+![SQ Line projext](image-1.png)
 
 - Export ui files at the `main/ui`
 - Import UI files in `main/main.c` as `#include "ui/ui.h"`
